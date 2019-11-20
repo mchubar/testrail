@@ -1,5 +1,5 @@
 {
-  "name": "codeception/testrail",
+  "name": "mchubar/testrail",
   "description": "Extension for TestRail integration",
   "type": "library",
   "authors": [
